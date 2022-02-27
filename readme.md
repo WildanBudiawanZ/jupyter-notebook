@@ -1,12 +1,12 @@
 # Run Jupyter Notebook on Docker
 
-## Build the container
+## Build the image
 
 ```
 docker build -t WILDAN/jupyter-notebook .
 ```
 
-## Create and Run Container
+## Create and Run the Container
 
 sesuaikan path
 
